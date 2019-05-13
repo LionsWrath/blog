@@ -114,6 +114,13 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.img-avatar {
+    border-radius: 46%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 /* Container
  *
