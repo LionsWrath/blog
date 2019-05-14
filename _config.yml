@@ -8,13 +8,9 @@ permalink:        pretty
 # Setup
 title:            Caio Tonetti
 tagline:          'A Personal Blog'
-description:      'I am a brazilian student currently pursuing a masters degree. My main interests are in Optimization, Graph Theory and Compilers.'
-url:              http://hyde.getpoole.com
+description:      'I am a brazilian student currently pursuing a masters degree.'
+url:              https://chst.dev
 baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
