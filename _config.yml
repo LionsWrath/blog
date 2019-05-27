@@ -12,6 +12,11 @@ description:      'I am a brazilian student currently pursuing a masters degree.
 url:              https://chst.dev
 baseurl:          /
 
+# RSS
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+
 paginate:         5
 
 # Custom vars
