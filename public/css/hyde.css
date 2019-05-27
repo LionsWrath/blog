@@ -114,14 +114,19 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.img-wrapper {
+    height:30%;
+    width:100%;
+    overflow:hidden;
+}
+
 .img-avatar {
     border-radius: 46%;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width:100%;
-    height:auto;
-    overflow: hidden;
+    margin-left: auto;  /* Center */
+    margin-right: auto; /* Center */
+    max-width:100%;     /* auto scale */
+    height:auto;        /* auto scale */
 }
 
 
