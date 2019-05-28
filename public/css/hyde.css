@@ -127,8 +127,19 @@ a.sidebar-nav-item:focus {
     margin-right: auto; /* Center */
     max-width:100%;     /* auto scale */
     height:auto;        /* auto scale */
+
 }
 
+/* Post Utilities
+ *
+ * 
+ * 
+ */
+
+.center-img {
+    margin: 0 auto;
+    display: block;
+}
 
 /* Container
  *
