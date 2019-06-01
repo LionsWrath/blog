@@ -20,8 +20,6 @@ feed_update_frequency: 1
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
 social:
   github:         https://github.com/lionswrath
   linkedin:       https://www.linkedin.com/in/caio-tonetti/
