@@ -12,7 +12,7 @@ Internship as a software developer using the C++ programming language and Qt.
 ## Academic Background
 
 **March 2018 to February 2020 - Universidade Federal de Minas Gerais** <br>
-Researching techniques for resource allocation in quantum computers using graph theory.
+Researching the problem of Token Swapping on on specific graph classes and proposing new integer linear models for this same problem. Participated in the Academic Excellence Program (PROEX) scholarship ([CAPES](https://www.capes.gov.br/)) from March 2019 to March 2020.
 
 **February 2012 to January 2017 - Universidade Estadual de Maringá** <br>
 Researched the effects of static and dynamic code analyzers on the quality of optimizations.
@@ -73,17 +73,21 @@ Mentoring one student for the ROCS graph theory IDE. More information in [here](
 ## Articles
 
 **May 2020** <br>
-**Enhancing the Jikes RVM Adaptive Optimization System** [PDF]({{site.url}}/assets/pmay2020.pdf) <br>
-IEEE Latina
+**Enhancing the Jikes RVM Adaptive Optimization System** <br>
+IEEE Latina <br>
+[PDF]({{site.url}}/assets/pmay2020.pdf) 
 
 **March 2019** <br>
-**Pinhão: An Auto-tunning System for Compiler Optimization Guided by Hot Functions** [PDF]({{site.url}}/assets/pmarch2019.pdf) <br>
-Journal of Universal Compuer Science
+**Pinhão: An Auto-tunning System for Compiler Optimization Guided by Hot Functions** <br>
+Journal of Universal Compuer Science <br>
+[PDF]({{site.url}}/assets/pmarch2019.pdf) 
 
 **September 2018** <br>
-**Enfield: An OpenQASM Compiler** [PDF]({{site.url}}/assets/psept2018.pdf) <br>
-IX Congresso Brasileiro de Software (Second Best Paper Award)
+**Enfield: An OpenQASM Compiler** <br>
+IX Congresso Brasileiro de Software (Second Best Paper Award) <br>
+[PDF]({{site.url}}/assets/psept2018.pdf) 
 
 **October 2016** <br>
-**A Design Space Exploration of Compiler Optimizations Guided by Hot Functions** [PDF]({{site.url}}/assets/poct2016.pdf) <br>
-International Conference of the Chilean Computer Science Society
+**A Design Space Exploration of Compiler Optimizations Guided by Hot Functions**  <br>
+International Conference of the Chilean Computer Science Society <br>
+[PDF]({{site.url}}/assets/poct2016.pdf)
