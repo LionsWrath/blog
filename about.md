@@ -11,7 +11,7 @@ Internship as a software developer using the C++ programming language and Qt.
 ---
 ## Academic Background
 
-**March 2018 to February 2020 - Universidade Federal de Minas Gerais** <br>
+**March 2018 to July 2020 - Universidade Federal de Minas Gerais** <br>
 Researching the problem of Token Swapping on on specific graph classes and proposing new integer linear models for this same problem. Participated in the Academic Excellence Program (PROEX) scholarship ([CAPES](https://www.capes.gov.br/)) from March 2019 to March 2020.
 
 **February 2012 to January 2017 - Universidade Estadual de Maringá** <br>
