@@ -58,12 +58,12 @@ semesters during the graduation.
 
 ### Google Summer of Code 2019 - KDE
 
-Collaborated to the ROCS Graph Theory IDE, under the mentoring of Tomaz Canabrava
+Collaborated to the [ROCS Graph Theory IDE](https://kde.org/applications/en/education/org.kde.rocs), under the mentoring of Tomaz Canabrava
 and Adriaan de Groot. More information in [here](https://community.kde.org/GSoC/2019/StatusReports/CaioTonetti).
 
 ### Season of KDE 2019
 
-Mentor of two students in the annual KDE outreach program.
+Mentor of two students in the annual [KDE outreach program](https://season.kde.org/).
 
 ### Google Summer of Code 2020 - KDE
 
