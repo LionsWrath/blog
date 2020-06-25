@@ -59,20 +59,28 @@ semesters during the graduation.
 Collaborated to the ROCS Graph Theory IDE, under the mentoring of Tomaz Canabrava
 and Adriaan de Groot. More information in [here](https://community.kde.org/GSoC/2019/StatusReports/CaioTonetti).
 
+## Season of KDE 2019
+
+Mentor of two students in the annual KDE outreach program.
+
+## Google Summer of Code 2020 - KDE
+
+Mentoring one student for the ROCS graph theory IDE. More information in [here](https://summerofcode.withgoogle.com/projects/#4532377939869696).
+
 # Articles
 
-**UNDER REVISION** <br>
-**Enhancing the Jikes RVM Adaptive Optimization System** <br>
+**May 2020** <br>
+**Enhancing the Jikes RVM Adaptive Optimization System** [PDF]({{site.url}}/assets/pmay2020.pdf) <br>
 IEEE Latina
 
 **March 2019** <br>
-**Pinhão: An Auto-tunning System for Compiler Optimization Guided by Hot Functions** <br>
+**Pinhão: An Auto-tunning System for Compiler Optimization Guided by Hot Functions** [PDF]({{site.url}}/assets/pmarch2019.pdf) <br>
 Journal of Universal Compuer Science
 
 **September 2018** <br>
-**Enfield: An OpenQASM Compiler** <br>
-IX Congresso Brasileiro de Software
+**Enfield: An OpenQASM Compiler** [PDF]({{site.url}}/assets/psept2018.pdf) <br>
+IX Congresso Brasileiro de Software (Second Best Paper Award)
 
 **October 2016** <br>
-**A Design Space Exploration of Compiler Optimizations Guided by Hot Functions** <br>
+**A Design Space Exploration of Compiler Optimizations Guided by Hot Functions** [PDF]({{site.url}}/assets/poct2016.pdf) <br>
 International Conference of the Chilean Computer Science Society
