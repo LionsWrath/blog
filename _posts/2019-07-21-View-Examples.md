@@ -1,6 +1,7 @@
 ---
 layout: post
 title: View and Examples
+tags: kde gsoc
 ---
 
 This week I began learning about QML to try to fix the View that show the graphs

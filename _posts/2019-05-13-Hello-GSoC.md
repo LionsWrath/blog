@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello GSoC and KDE!
+tags: kde gsoc
 ---
 
 

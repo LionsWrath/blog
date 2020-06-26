@@ -63,8 +63,8 @@ abilities in C++.
 I was invited as a speaker about Hackerspaces and the field of Computer Science 
 in the following events: Latin American Free Hardware Forum in 2015 (A sub event 
 of the bigger [LATINOWARE](https://twitter.com/latinoware)), opening week of freshman's 
-in the course of civil engineering () and the opening week of freshman's in the 
-course of electrical engineering.
+in the course of civil engineering (2017) and the opening week of freshman's in the 
+course of electrical engineering (2017).
 
 ### Courses
 

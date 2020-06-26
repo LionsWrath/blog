@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Step-by-Step Execution and Examples
+tags: kde gsoc
 ---
 
 Last week I finished writing all the new examples for the ROCS, together

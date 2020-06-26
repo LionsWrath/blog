@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GSoC Update
+tags: kde gsoc
 ---
 
 Last post I said that I was having some problems pushing my modifications to the
