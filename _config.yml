@@ -12,6 +12,10 @@ description:      'I am a brazilian student currently pursuing a masters degree.
 url:              https://chst.dev
 baseurl:          /
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 # Google services
 google_analytics: UA-170948634-1
 
