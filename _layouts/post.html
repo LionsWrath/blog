@@ -29,3 +29,9 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<div class="comments">
+  {% if page.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</div>
