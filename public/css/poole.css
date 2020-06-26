@@ -338,11 +338,13 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  text-align: left;
 }
 .page-title,
 .post-title {
   margin-top: 0;
-  line-height:0.6em
+  line-height:0.6em;
+  text-align: left;
 }
 
 .page-tags,
