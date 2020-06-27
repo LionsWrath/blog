@@ -32,7 +32,7 @@ optimizations in a scientific initiation program (PIC).
 HackBrazil was a (in the time) one month long hackathon that our team of three, 
 with the project [InVisum](https://github.com/LionsWrath/invisum-api), a prototype
 for a large scale database syncronization and processing system, got to the top 5 
-projects of more than 300, presenting them in Boston at the 
+projects, presenting them in Boston at the 
 [Brazil Conference](https://www.brazilconference.org/).
 Brazil Conference is a annual conference realized at Harvard and MIT to promote
 discussion between brazilian leaders and representatives of Brazil's diversity.
