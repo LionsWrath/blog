@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crazy Last Weeks
-tags: kde gsoc
+tags: kde gsoc 2019
 ---
 
 Last weeks have been crazy for me. Since the GSoC began, I have been rushing everything related

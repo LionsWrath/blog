@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello GSoC and KDE!
-tags: kde gsoc
+tags: kde gsoc 2019
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Day of Lakademy
-tags: kde gsoc
+tags: kde gsoc 2019
 ---
 
 And Lakademy is finally here! This is not my first direct interaction with a KDE member,
