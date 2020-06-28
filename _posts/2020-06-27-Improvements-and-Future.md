@@ -79,3 +79,5 @@ There is many things to be done, but so little time. Thank you for whoever read 
  stay well. 
 
 Discipline and clarity of mind for a better tomorrow.
+
+---
