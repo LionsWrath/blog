@@ -3,7 +3,8 @@ layout: page
 title: "About Me"
 ---
 
-[Lattes](http://lattes.cnpq.br/9654776969240365)
+[Lattes](http://lattes.cnpq.br/9654776969240365) <br>
+CV: [OLD]({{ site.url }}/assets/CV_GSoD.pdf) [v2.0]({{ site.url }}/assets/CV_v20.pdf)
 
 ---
 ## Work Experience
@@ -143,7 +144,7 @@ IEEE Latina <br>
 
 **March 2019** <br>
 **Pinhão: An Auto-tunning System for Compiler Optimization Guided by Hot Functions** <br>
-Journal of Universal Compuer Science <br>
+Journal of Universal Computer Science <br>
 [PDF]({{site.url}}/assets/pmarch2019.pdf) 
 
 **September 2018** <br>
