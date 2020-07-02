@@ -20,9 +20,14 @@ proposing new integer linear models for this same problem. Participated in
 the Academic Excellence Program scholarship (PROEX - 
 [CAPES](https://www.capes.gov.br/)) from March 2019 to March 2020.
 
+Advisor: [Vinícius Fernandes dos Santos](https://homepages.dcc.ufmg.br/~viniciussantos/)<br>
+Co-advisor: [Sebastián Urrutia](https://dcc.ufmg.br/dcc/?q=pt-br/node/242)
+
 **February 2012 to January 2017 - Universidade Estadual de Maringá** <br>
 Researched the effects of static and dynamic code analyzers on the quality of 
 optimizations in a scientific initiation program (PIC).
+
+Advisor: [Anderson Faustino da Silva](http://www.din.uem.br/pessoas/docentes/anderson-faustino-da-silva)
 
 ---
 ## Projects
@@ -125,6 +130,11 @@ Got 110/120 in the TOEFL iBT (2017).
 
 ---
 ## Papers
+
+**June 2020** <br>
+**Integer Linear Programming Models for Sequential and Parallel Token Swaps in Graphs** <br>
+LII Simpósio Brasileiro de Pesquisa Operacional (SBPO) <br>
+**UNDER REVISION**
 
 **May 2020** <br>
 **Enhancing the Jikes RVM Adaptive Optimization System** <br>
